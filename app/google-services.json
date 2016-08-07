@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "954961420780",
+    "firebase_url": "https://inspsheettesting.firebaseio.com",
+    "project_id": "inspsheettesting",
+    "storage_bucket": "inspsheettesting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954961420780:android:a43320e64bffe1fb",
+        "android_client_info": {
+          "package_name": "com.credr.inspsheettesting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954961420780-b10tg543vto33feii064dr2vvnt5lvqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmegCwGRvsdFoLbwbxQ9AVjd4TVztP9XE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
